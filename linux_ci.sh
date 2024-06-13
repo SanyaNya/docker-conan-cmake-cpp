@@ -1,4 +1,4 @@
 #!/bin/sh
-
-./centos7/build32.sh
-./centos7/build64.sh
+cd centos7
+./build32.sh
+./build64.sh

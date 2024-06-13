@@ -1,1 +1,2 @@
-.\windows\build.bat
+cd windows
+.\build.bat
