@@ -1,6 +1,6 @@
 #!/bin/sh
 
-NAME=centos7_32
+NAME=centos7_32-conan-cmake-cpp
 BASE_IMAGE=centos:7@sha256:8faead07bd1d5fdd17414a1759eae004da5daa9575a846f4730f44dec0f47843 #linux/386 tag
 GCC_VERSION=14.1.0
 CMAKE_VERSION=3.29.5
